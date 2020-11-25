@@ -1,0 +1,86 @@
+body {
+    box-sizing: border-box;
+}
+
+.row{
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h5,
+p,
+li,
+a{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+    color: #ffffff;
+}
+.navbar {
+    background-color: #E83E8C;
+}
+.logo{
+    width: 22vw;
+}
+li{
+    font-size:1.2em;
+    text-align: center;
+    color: #ffffff;
+}
+h1{
+    font-size: 4vw;
+    color: #707070;
+    font-weight: 900;
+}
+.card{
+    padding:0;
+}
+
+.tarjeta{
+    display: flex;
+	justify-content: space-around;
+}
+
+h5{
+    color:  #707070 ;
+    font-weight: 700;
+    font-size: 1.3em;
+}
+
+p{
+    color:  #707070 ;
+    font-weight: 500;
+    font-size: 1em;
+}
+.list-group-item{
+    color:  #707070 ;
+    font-weight: 500;
+    font-size: 0.8em;
+}
+.card-link{
+    color:  #1C7CD5 ;
+    font-weight: 500;
+    font-size: 0.8em;
+}
+.footer__alternativo{
+    background-color: #17A2B8;
+}
+
+.footer{
+    background-color: #E83E8C;
+}
+
+.llamado{
+    font-size: 2em;
+    font-weight: 700;
+    color: #ffffff;
+}
+.logo__footer{
+    width: 10vh;
+}
+
+.fab{
+    color: #ffffff;
+    font-size: 4vw;
+    
+}
